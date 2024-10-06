@@ -1,0 +1,9 @@
+.main{
+    background-color: rgb(179, 255, 249);
+}
+
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+}
